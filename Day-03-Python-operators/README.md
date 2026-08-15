@@ -164,5 +164,29 @@ if a == None:       # ❌ works but not recommended, avoid
 Why? Because `None` is a singleton (only ONE `None` object ever exists in a Python program), so identity check makes sense here.
 
 ---
+Logical Operators in Python
+
+## Introduction
+
+Logical operators are used to combine or modify conditions in Python.
+
+They are mainly used in conditional statements such as `if`, `elif`, and `while`.
+
+Python provides three logical operators:
+
+1. `and`
+2. `or`
+3. `not`
+
+---
+
+## 1. AND Operator
+
+The `and` operator returns `True` only when both conditions are `True`.
+
+### Syntax
+
+```python
+x and y
 
 *Note: Membership operators (`in`, `not in`) not covered yet — will add once you get to that topic.*
