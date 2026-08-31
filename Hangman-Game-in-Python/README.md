@@ -1,4 +1,4 @@
-Hangman Game in Python
+Hangman Game in Python:🥇
 
 Hangman is a classic word-guessing game. Its origins are not exactly known but it appears 
 to date back to Victorian times. A player writes down the first and last letters of a word 
